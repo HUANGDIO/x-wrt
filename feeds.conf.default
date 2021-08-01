@@ -3,7 +3,8 @@ src-git luci https://github.com/x-wrt/luci.git
 src-git routing https://github.com/x-wrt/routing.git
 src-git telephony https://github.com/x-wrt/telephony.git
 src-git freifunk https://github.com/x-wrt/freifunk-openwrt-packages.git
-src-git x https://github.com/x-wrt/com.x-wrt.git
+src-git x https://github.com/HUANGDIO/com.x-wrt.git
+src-git Boos https://github.com/R619AC-OpenWrt/OpenWrt-Packages.git
 #src-git video https://github.com/openwrt/video.git
 #src-git targets https://github.com/openwrt/targets.git
 #src-git oldpackages http://git.openwrt.org/packages.git
